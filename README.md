@@ -37,7 +37,7 @@ There are no assets (like images, ...) for this challenge, as the country flags 
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-## Building your project
+## Building the app
 
 1. Create a github repo call it `leila-countries-app`
 2. Create a branch called dev
@@ -45,7 +45,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 4. When you are done push, push your changes and create a PR (request to merge into main branch)
 5. And then merge the PR for yourself!
 
-## Deploying your project
+## Deploying the app
 
 Host the app on
 
