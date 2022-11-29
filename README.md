@@ -39,11 +39,11 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Building your project
 
-1. Clone this [Repo](https://github.com/MpuzaInc/leila-countries-app.git)
+1. Create a github repo call it `leila-countries-app`
 2. Create a branch called dev
 3. Build the app within the dev branch
 4. When you are done push, push your changes and create a PR (request to merge into main branch)
-5. And then merge the PR
+5. And then merge the PR for yourself!
 
 ## Deploying your project
 
