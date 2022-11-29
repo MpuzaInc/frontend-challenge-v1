@@ -59,4 +59,4 @@ Send an email containing App's DEMO Link to `tunezepatrick@gmail.com` and cc `yd
 
 On Thusday, 01 December 2022 at 7:00 PM. At this exact time will have a call for you to demo it.
 
-**Have fun building!** 🚀
+**Happy coding!** 🚀
