@@ -31,7 +31,7 @@ Your task is to build out the project to the designs inside the `/design` folder
 
 In this challenge, you will find mobile and desktop designs in light and dark mode color schemes for both pages.
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`.
+The designs are in JPG static format. So, you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`.
 
 There are no assets (like images, ...) for this challenge, as the country flags will be pulled from the [REST Countries API](https://restcountries.com) and you can use an icon font library for the icons [React icons](https://react-icons.github.io/react-icons/).
 
